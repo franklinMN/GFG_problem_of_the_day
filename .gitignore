@@ -1,0 +1,25 @@
+# Ignore executables
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build folders
+/build/
+build
+/bin/
+/debug/
+/release/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Visual Studio Code settings
+.vscode/
+
+# CMake build files
+CMakeFiles/
+/CMakeCache.txt
+*.cmake
